@@ -14,7 +14,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <hazelcast.version>LATEST</hazelcast.version>
+        <hazelcast.version>4.1</hazelcast.version>
         <junit.version>4.12</junit.version>
         <org.springframework.version>4.0.6.RELEASE</org.springframework.version>
     </properties>
